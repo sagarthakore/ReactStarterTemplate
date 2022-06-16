@@ -20,6 +20,7 @@ class NavigationBar extends Component {
                 <Nav className="mr-auto">
                     <Nav.Link href="/"><strong>Home</strong></Nav.Link>
                     <Nav.Link href="/about"><strong>About</strong></Nav.Link>
+                    <Nav.Link href="/avery"><strong>Avery</strong></Nav.Link>
                 </Nav>
             </Navbar>
         );

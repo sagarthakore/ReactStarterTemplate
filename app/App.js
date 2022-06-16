@@ -6,6 +6,7 @@ import Home from './_components/_home/Home';
 import About from './_components/_about/About';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';;
 import './_styles/style.css';
+import Avery from './_components/_avery/Avery';
 
 class App extends Component {
     render() {
@@ -16,6 +17,7 @@ class App extends Component {
                     <Switch>
                         <Route exact path='/' component={Home} />
                         <Route exact path='/about' component={About} />
+                        <Route exact path='/avery' component={Avery} />
                     </Switch>
                 </Router>
             </div>
