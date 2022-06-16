@@ -29,7 +29,6 @@
     "highcharts-react-official": "^3.0.0",
     "i18n-iso-countries": "^5.4.0",
     "lodash": "^4.17.15",
-    "pdf-lib": "^1.17.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
